@@ -3,7 +3,7 @@ Click **[here](https://www.youtube.com/watch?v=XGPYZhePjKo)** to watch a video e
 
 Latest screenshot:
 
-![ss](https://raw.githubusercontent.com/MATF-RG16/RG16-013-rubik/master/screenshots/v2016-12-23.gif)
+![ss](screenshots/v2016-12-23.gif)
 
 ## :page_facing_up: Description
 Click **[here](https://en.wikipedia.org/wiki/Rubik%27s_Cube)** for more information about Rubik's cube.
