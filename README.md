@@ -1,4 +1,7 @@
 # :sparkles: RG16-013-rubik :sparkles:
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f29bd4e467d64301b4ba1e357d41dd86)](https://app.codacy.com/manual/ivan-ristovic/rubik?utm_source=github.com&utm_medium=referral&utm_content=ivan-ristovic/rubik&utm_campaign=Badge_Grade_Dashboard)
+
 Click **[here](https://www.youtube.com/watch?v=XGPYZhePjKo)** to watch a video explaining my project.
 
 Latest screenshot:
