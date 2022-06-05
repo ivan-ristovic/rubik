@@ -1,4 +1,4 @@
-# RG16-013-rubik
+# rubik
 
 Click **[here](https://www.youtube.com/watch?v=XGPYZhePjKo)** to watch a video explaining my project.
 
